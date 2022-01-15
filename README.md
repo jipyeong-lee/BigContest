@@ -1,2 +1,2 @@
 # BigContest
-빅콘테스트 코드 정리 및 발표자료입니다.
+![image](https://user-images.githubusercontent.com/77089771/149607400-9c60fb23-929c-4751-9f16-fe7517091965.png)
